@@ -29,7 +29,7 @@
 
   ## Code Sample
   This is where the discription for the sample code will be located
-  this will holde the sample good image link
+ 
 
   ## Screenshots
   This will hold the sample gif link
